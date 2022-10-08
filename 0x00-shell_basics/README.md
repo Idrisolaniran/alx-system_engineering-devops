@@ -1,4 +1,3 @@
 #!/bin/bas"
-"cd /root"
-
+cd /root
 
