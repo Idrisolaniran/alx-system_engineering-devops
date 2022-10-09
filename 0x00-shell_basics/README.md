@@ -1,3 +1,3 @@
 #!/bin/bas"
-ls -l
+cd root
 
