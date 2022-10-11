@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "sehll I/O redirection"
-
+Hello World
