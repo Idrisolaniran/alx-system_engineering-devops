@@ -1,2 +1,2 @@
 #!/bin/bash
-Hello World
+Shell I/O redirection
